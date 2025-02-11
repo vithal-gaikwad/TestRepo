@@ -1,2 +1,24 @@
-hello edit here
-hi
+wells fargo account interview L1:
+Q. What TreeSet implements by default comparable or comparator?
+Ans. comparable
+
+Q. What wrapper classes like Integer, Long, etc implments by default comparator or comparable?
+Ans. comparable
+
+Q. What is the difference between Thread and Process?
+
+Q. What are the ways to create Threads?
+
+Q. How we can create thread using Executor framework?
+
+Q. What is the difference between Thread created using Thread class and implementing Runnable interface?
+
+Q. What is the use spring-starter-parent dependency?
+
+Q. Which spring componenet you have used in your project?
+
+Q. What is the difference between RestController and Controller annotation in sprint boot?
+
+Q. If 10 threads are created in octa core processor, so how many threads will be running at given time?
+Ans. 8
+
