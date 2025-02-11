@@ -22,3 +22,21 @@ Q. What is the difference between RestController and Controller annotation in sp
 Q. If 10 threads are created in octa core processor, so how many threads will be running at given time?
 Ans. 8
 
+Q. What is the difference between comparator and comparable?
+Ans.
+
+Q. 
+
+=======================================================
+WIPRO - HSBC internal L1
+
+Q. Splunk
+Q. Have you built jenkins script for deployment?
+Q. What is microservice?
+Q. How you used to monitor your microservices?
+Q. What is the use of microservices?
+Q. What is toolbox design principle in microservices/spring boot? [did not here the design principle word properly]
+=========================================================
+
+
+
